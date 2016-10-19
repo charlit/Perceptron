@@ -2,7 +2,9 @@
 
 Projet Epsi
 
-Xavier Lafargue
+Xavier Laffargue
+
+Loic Boussiquet
 
 Jussan Charles
 
